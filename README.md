@@ -1,6 +1,6 @@
 ![logo](https://github.com/Jayveer-Singh0017/Jayveer-Singh/blob/main/JAYVEER%20SINGH.png)
 <h1 align="center">Hi 👋, I'm Jayveer Singh</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA With JAVA and Android Studio**
 
-- 💬 Ask me about **JAVA, C++**
+- 💬 Ask me about **JAVA, C++,Spring Boot Hibernate Android Studio, XML**
 
 - 📫 How to reach me **jayveer15sept@gmail.com**
 
